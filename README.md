@@ -1,6 +1,4 @@
-# 🚌 Bus Management System – Financial Management Module
-
-This project is part of a comprehensive **Bus Management System**, developed during the **2nd year, 2nd semester** as part of an academic initiative. My contribution focused on the **Financial Management** functionality, specifically handling **staff salary operations** from the **admin side**.
+ Financial Management Function
 
 ## 📌 Features Implemented
 
